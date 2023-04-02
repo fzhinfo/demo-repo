@@ -18,3 +18,6 @@ testkey.pub
 use .pub to save the key - cat testkey.pub - copy or use command pbcopy < ~/testkey.pub
 copy to github settings - SSH and GPG keys 
 
+fan@work demo-repo % git push origin main  
+Everything up-to-date
+
