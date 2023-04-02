@@ -22,3 +22,4 @@ copy to github settings - SSH and GPG keys
 fan@work demo-repo % git push origin main  
 Everything up-to-date
 
+2 Branches
