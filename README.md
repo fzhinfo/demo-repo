@@ -4,7 +4,7 @@ Some description!
 
 ## Subheader
 
-Watch tutorial on YouTube.ß
+Watch tutorial on YouTube
 
 git clone website address
 Generate SSH key
