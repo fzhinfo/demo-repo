@@ -21,3 +21,17 @@ copy to github settings - SSH and GPG keys
 fan@work demo-repo % git push origin main  
 Everything up-to-date
 
+Branch
+
+git branch
+git checkout -b feature-readme-instructions
+Switched to a new branch 'feature-readme-instructions'
+git branch
+
+git checkout main  
+Switched to branch 'main'
+
+## Local Development
+
+1. open index.html in browser
+
