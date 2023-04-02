@@ -6,6 +6,7 @@ Some description!
 
 Watch tutorial on YouTube.ß
 
+git clone website address
 Generate SSH key
 
 ssh-keygen -t rsa -b 4096 -C "email@example.com"
